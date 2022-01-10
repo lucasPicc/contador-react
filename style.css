@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: snow;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: rgb(0, 223, 253);
+  margin: 0;
+  padding: 50px;
+}
+
+hr {
+  margin: 0;
+}
+button {
+  margin: 20px;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button:hover {
+  background-color: grey;
+}
+
+.menor {
+  color: aliceblue;
+}
+
+.mayor {
+  color: rgba(4, 0, 255, 0.733);
+}
